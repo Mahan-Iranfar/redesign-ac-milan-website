@@ -1,3 +1,4 @@
+import NavigationScroll from "../components/NavigationScroll";
 import "./globals.css";
 import { sitePath } from "../lib/paths";
 export const metadata = {
@@ -15,7 +16,10 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="stylesheet" href={sitePath("assets/style.css")} />
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        <NavigationScroll />
+      </body>
     </html>
   );
 }

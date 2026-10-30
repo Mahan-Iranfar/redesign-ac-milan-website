@@ -103,7 +103,7 @@ for (const file of files) {
       : slug.startsWith("match-")
         ? "fixtures/"
         : slug + "/";
-  const code = `// Generated from scripts/content.mjs and public/data. Do not edit directly.\nimport Link from 'next/link';\nimport SiteShell from '${rel}components/SiteShell';\nimport {sitePath} from '${rel}lib/paths';\nexport const metadata={title:${JSON.stringify(title)}};\nexport default function Page(){return <SiteShell active=${JSON.stringify(active)}>${jsx(main)}</SiteShell>;}\n`;
+  const code = `// Generated from scripts/content.mjs and public/data. Do not edit directly.\nimport Link from '${rel}components/AppLink';\nimport SiteShell from '${rel}components/SiteShell';\nimport {sitePath} from '${rel}lib/paths';\nexport const metadata={title:${JSON.stringify(title)}};\nexport default function Page(){return <SiteShell active=${JSON.stringify(active)}>${jsx(main)}</SiteShell>;}\n`;
   fs.writeFileSync(
     `${folder}/${slug === "404" ? "not-found" : "page"}.jsx`,
     code,
@@ -113,7 +113,7 @@ for (const file of files) {
       at = elements.indexOf(main);
     fs.writeFileSync(
       "components/SiteShell.jsx",
-      `import Link from 'next/link';\nimport {sitePath} from '../lib/paths';\nimport Enhancements from './Enhancements';\nexport default function SiteShell({children,active}){return <>${elements
+      `import Link from './AppLink';\nimport {sitePath} from '../lib/paths';\nimport Enhancements from './Enhancements';\nexport default function SiteShell({children,active}){return <>${elements
         .slice(0, at)
         .map((n) => jsx(n, true))
         .join("")}{children}${elements

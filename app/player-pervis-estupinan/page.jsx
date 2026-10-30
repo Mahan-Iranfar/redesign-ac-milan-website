@@ -1,5 +1,5 @@
 // Generated from scripts/content.mjs and public/data. Do not edit directly.
-import Link from 'next/link';
+import Link from '../../components/AppLink';
 import SiteShell from '../../components/SiteShell';
 import {sitePath} from '../../lib/paths';
 export const metadata={title:"Pervis Estupiñan"};

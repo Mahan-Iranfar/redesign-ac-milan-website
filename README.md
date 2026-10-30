@@ -144,3 +144,7 @@ Original source code is covered by [LICENSE](LICENSE). **That license does not c
 - [GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 
 Made as an independent portfolio concept celebrating football, design and front-end engineering.
+
+### 2.1.1 — navigation scroll fix
+
+AppLink disables Next’s automatic element-based scroll selection. NavigationScroll resets new link navigations to the top after route commit, using instant movement and focus with preventScroll. Hash destinations are honored; history navigation does not consume a link-navigation reset. Menu focus restoration also uses preventScroll.

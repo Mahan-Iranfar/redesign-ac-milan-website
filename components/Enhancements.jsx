@@ -12,7 +12,7 @@ export default function Enhancements() {
     initUI(scope);
     initFootball(scope);
     void initFans(scope);
-    return () => {
+    return () => {F
       scope.dispose();
       document.body.classList.remove("menu-open");
       document.documentElement.classList.remove("js-motion");

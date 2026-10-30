@@ -1,0 +1,72 @@
+[
+  {
+    "id": "paolo-maldini",
+    "name": "Paolo Maldini",
+    "era": "1985–2009",
+    "title": "The art of belonging",
+    "bio": "A one-club career defined by defensive intelligence and leadership.",
+    "moment": "Captaining Milan to the 2007 European title.",
+    "image": "legends/paolo-maldini.webp",
+    "source": "https://www.acmilan.com/en/club/legends/players/paolo-maldini"
+  },
+  {
+    "id": "franco-baresi",
+    "name": "Franco Baresi",
+    "era": "1978–1997",
+    "title": "The quiet authority",
+    "bio": "A libero whose reading of the game helped shape Milan’s defensive identity.",
+    "moment": "Leading the defence in the European triumphs of 1989 and 1990.",
+    "image": "legends/franco-baresi.webp",
+    "source": "https://www.acmilan.com/en/hall-of-fame/inductees/franco-baresi"
+  },
+  {
+    "id": "kaka",
+    "name": "Kaká",
+    "era": "2003–2009 / 2013–2014",
+    "title": "Grace at full speed",
+    "bio": "A Brazilian attacking midfielder remembered for powerful runs and elegant finishing.",
+    "moment": "The 2007 European campaign and Ballon d’Or.",
+    "image": "legends/kaka.webp",
+    "source": "https://www.acmilan.com/en/hall-of-fame/inductees/ricardo-kaka"
+  },
+  {
+    "id": "andrea-pirlo",
+    "name": "Andrea Pirlo",
+    "era": "2001–2011",
+    "title": "A different kind of time",
+    "bio": "A deep-lying playmaker who made patience and passing range a creative weapon.",
+    "moment": "Orchestrating midfield in the 2003 and 2007 European-winning teams.",
+    "image": "legends/andrea-pirlo.webp",
+    "source": "https://www.acmilan.com/en/club/legends/players/pirlo"
+  },
+  {
+    "id": "clarence-seedorf",
+    "name": "Clarence Seedorf",
+    "era": "2002–2012",
+    "title": "Intelligence in motion",
+    "bio": "A technically gifted Dutch midfielder with a rare feel for the rhythm of elite matches.",
+    "moment": "European success with Milan in 2003 and 2007.",
+    "image": "legends/clarence-seedorf.webp",
+    "source": "https://www.acmilan.com/en/club/legends/player/seedorf"
+  },
+  {
+    "id": "andriy-shevchenko",
+    "name": "Andriy Shevchenko",
+    "era": "1999–2006 / 2008–2009",
+    "title": "An instinct for the moment",
+    "bio": "The Ukrainian forward combined direct running with remarkable composure in front of goal.",
+    "moment": "The decisive penalty in the 2003 European final shootout.",
+    "image": "legends/andriy-shevchenko.webp",
+    "source": "https://www.acmilan.com/en/hall-of-fame/inductees/andriy-shevchenko"
+  },
+  {
+    "id": "marco-van-basten",
+    "name": "Marco van Basten",
+    "era": "1987–1995",
+    "title": "Football as an art form",
+    "bio": "A Dutch striker whose control and finishing made him an emblem of an extraordinary era.",
+    "moment": "Scoring twice in the 1989 European Cup final.",
+    "image": "legends/marco-van-basten.webp",
+    "source": "https://www.acmilan.com/en/hall-of-fame/inductees/marco-van-basten"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "milan-torino",
+    "date": "2026-11-08T19:45:00Z",
+    "opponent": "Torino",
+    "competition": "League",
+    "venue": "San Siro",
+    "home": true,
+    "status": "Scheduled",
+    "score": null
+  },
+  {
+    "id": "roma-milan",
+    "date": "2026-11-22T17:00:00Z",
+    "opponent": "Roma",
+    "competition": "League",
+    "venue": "Away stadium",
+    "home": false,
+    "status": "Scheduled",
+    "score": null
+  },
+  {
+    "id": "milan-porto",
+    "date": "2026-12-02T20:00:00Z",
+    "opponent": "Porto",
+    "competition": "European",
+    "venue": "San Siro",
+    "home": true,
+    "status": "Scheduled",
+    "score": null
+  },
+  {
+    "id": "milan-verona",
+    "date": "2026-10-24T18:45:00Z",
+    "opponent": "Verona",
+    "competition": "League",
+    "venue": "San Siro",
+    "home": true,
+    "status": "Full time",
+    "score": "3 \u2013 1"
+  },
+  {
+    "id": "lyon-milan",
+    "date": "2026-10-14T19:00:00Z",
+    "opponent": "Lyon",
+    "competition": "European",
+    "venue": "Away stadium",
+    "home": false,
+    "status": "Full time",
+    "score": "1 \u2013 2"
+  },
+  {
+    "id": "milan-parma",
+    "date": "2026-09-20T18:45:00Z",
+    "opponent": "Parma",
+    "competition": "Cup",
+    "venue": "San Siro",
+    "home": true,
+    "status": "Full time",
+    "score": "2 \u2013 0"
+  }
+]

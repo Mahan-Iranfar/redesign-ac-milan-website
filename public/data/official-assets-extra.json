@@ -1,0 +1,99 @@
+{
+  "rights": "Official club media; all rights reserved. Downloaded at user request for independent concept. No redistribution license or endorsement granted.",
+  "legends": {
+    "paolo-maldini": {
+      "source_url": "https://www.acmilan.com/en/club/legends/players/paolo-maldini",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/977e6cfd-a86c-4b79-bd24-f87e67b9dfa7/Landing_Maldini_P.jpg",
+      "local_path": "assets/legends/paolo-maldini.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/paolo-maldini.jpg"
+    },
+    "franco-baresi": {
+      "source_url": "https://www.acmilan.com/en/hall-of-fame/inductees/franco-baresi",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/f2e62a10-496c-4851-8d76-28eda4cd27b3/Hero-Inductee-Baresi.jpg",
+      "local_path": "assets/legends/franco-baresi.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/franco-baresi.jpg"
+    },
+    "kaka": {
+      "source_url": "https://www.acmilan.com/en/hall-of-fame/inductees/ricardo-kaka",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/50e01e13-1934-4a77-8b71-dffeff854f0f/Hero-HoF-Kaka.png",
+      "local_path": "assets/legends/kaka.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/kaka.png"
+    },
+    "andrea-pirlo": {
+      "source_url": "https://www.acmilan.com/en/club/legends/players/pirlo",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/14faaf89-e2ea-4750-abf1-8d865812be9c/Landing-Pirlo.jpg",
+      "local_path": "assets/legends/andrea-pirlo.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/andrea-pirlo.jpg"
+    },
+    "clarence-seedorf": {
+      "source_url": "https://www.acmilan.com/en/club/legends/player/seedorf",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/f2f67a1c-7b68-43a8-87da-7612f77663b3/Landing_Seedorf.jpg",
+      "local_path": "assets/legends/clarence-seedorf.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/clarence-seedorf.jpg"
+    },
+    "andriy-shevchenko": {
+      "source_url": "https://www.acmilan.com/en/hall-of-fame/inductees/andriy-shevchenko",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/7ec1dce3-3f6a-4bbb-ae91-aa99b166735d/Hero-Inductee-Shevchenko.jpg",
+      "local_path": "assets/legends/andriy-shevchenko.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/andriy-shevchenko.jpg"
+    },
+    "marco-van-basten": {
+      "source_url": "https://www.acmilan.com/en/hall-of-fame/inductees/marco-van-basten",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/95344de4-674e-4131-bb62-fbc30f937999/Hero-HoF-VanBasten.jpg",
+      "local_path": "assets/legends/marco-van-basten.webp",
+      "download_ok": true,
+      "original_download_path": "assets/legends/marco-van-basten.jpg"
+    }
+  },
+  "teams": {
+    "milan": {
+      "source_url": "https://www.acmilan.com/en/season/active/schedule/all",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/002bcea4-7693-4f1d-a5a4-aa157135a28e/Milan.png",
+      "local_path": "assets/teams/milan.png",
+      "download_ok": true
+    },
+    "torino": {
+      "source_url": "https://www.acmilan.com/en/season/active/schedule/all",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/339081c3-d931-4283-9ddc-8c4e843a1149/Torino.png",
+      "local_path": "assets/teams/torino.png",
+      "download_ok": true
+    },
+    "roma": {
+      "source_url": "https://www.acmilan.com/en/season/active/schedule/all",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/1d20420f-1510-43d3-ad47-15a329f30d36/Roma-2024.png",
+      "local_path": "assets/teams/roma.png",
+      "download_ok": true
+    },
+    "parma": {
+      "source_url": "https://www.acmilan.com/en/season/active/schedule/all",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/ac445e13-2d58-47af-84f9-1e7eb076b5a8/Parma.png",
+      "local_path": "assets/teams/parma.png",
+      "download_ok": true
+    },
+    "lyon": {
+      "source_url": "https://boutique.ol.fr/",
+      "asset_url": "https://boutique.ol.fr/#inline-svg-nq-i-ol-logo",
+      "local_path": "assets/teams/lyon.svg",
+      "download_ok": true,
+      "note": "Official inline crest SVG extracted from club store header."
+    },
+    "porto": {
+      "source_url": "https://www.acmilan.com/en/match-center/g2244625",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/9a1dbdea-4e89-4bd7-aed2-479be74c90e6/Porto.png",
+      "local_path": "assets/teams/porto.png",
+      "download_ok": true
+    },
+    "verona": {
+      "source_url": "https://www.acmilan.com/en/match-center/2025-26-serie-a-ac-milan-verona-g2558672",
+      "asset_url": "https://assets-eu-01.kc-usercontent.com:443/006f7528-416b-01e4-8ef2-ab6ab3f4e177/169196da-2b50-4437-95e9-599e354b1fca/Hellas-Verona-2020.png",
+      "local_path": "assets/teams/verona.png",
+      "download_ok": true
+    }
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a-city-in-two-colours",
+    "title": "A city. Two colours. An endless story.",
+    "category": "Culture",
+    "date": "2026-10-28",
+    "image": "stadium.jpg",
+    "intro": "From the streets of Milan to the farthest corners of the world, red and black is a language of belonging.",
+    "paragraphs": [
+      "Some identities are worn. Others are lived. For generations of supporters, the colours of Milan have carried memories of first matches, familiar faces and the walk towards the stadium.",
+      "This concept explores that connection through design: typography with the confidence of a terrace banner, a palette drawn from the Rossoneri identity, and a rhythm that leaves room for the photographs to breathe.",
+      "The result is an independent editorial interpretation of football culture. It is not club reporting, and no interview, access or endorsement is implied."
+    ]
+  },
+  {
+    "id": "the-art-of-the-number-ten",
+    "title": "The art of the number ten.",
+    "category": "On the pitch",
+    "date": "2026-10-25",
+    "image": "pitch.jpg",
+    "intro": "A little space. A single touch. A completely different game.",
+    "paragraphs": [
+      "The playmaker has always occupied a special place in the football imagination. Between the opposing lines, time seems to move differently.",
+      "This chapter explores the role through movement, space and awareness: receiving between lines, turning under pressure and opening a new route towards goal.",
+      "This is an independent editorial interpretation, not a player interview. The ideas are familiar across generations: awareness, patience and the courage to choose the unexpected pass."
+    ]
+  },
+  {
+    "id": "under-the-lights",
+    "title": "Everything changes under the lights.",
+    "category": "Matchday",
+    "date": "2026-10-22",
+    "image": "stadium.jpg",
+    "intro": "Before the whistle, there is a moment when an entire stadium takes a breath.",
+    "paragraphs": [
+      "A football ground is a place of ritual. The journey, the gathering crowd, the floodlights against the evening sky: every detail becomes part of the event.",
+      "Our stadium chapter pairs original interface illustrations with licensed atmospheric football photography. The stadium photographs show San Siro; the pitch image is a general football reference.",
+      "For actual visits, tour availability and access information, always use the official venue website. This concept does not sell tickets or accept reservations."
+    ]
+  },
+  {
+    "id": "the-next-chapter",
+    "title": "The next chapter starts with a first touch.",
+    "category": "Academy",
+    "date": "2026-10-19",
+    "image": "pitch.jpg",
+    "intro": "Curiosity before certainty. Development before the result.",
+    "paragraphs": [
+      "Learning football begins with a relationship to the ball, to teammates, and to the space around them. A useful development environment makes room for experimentation.",
+      "The Academy page is an illustrative learning pathway, organized around technique, decision-making and personal growth. It does not describe a current AC Milan programme.",
+      "This editorial concept asks how a digital platform can explain a development philosophy clearly to players and families without making unsupported promises."
+    ]
+  }
+]

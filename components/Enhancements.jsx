@@ -5,6 +5,7 @@ import { createScope } from "../lib/lifecycle";
 import { initUI } from "../public/js/ui";
 import { initFootball } from "../public/js/football";
 import { initFans } from "../public/js/fans";
+
 export default function Enhancements() {
   const pathname = usePathname();
   useEffect(() => {
@@ -12,7 +13,7 @@ export default function Enhancements() {
     initUI(scope);
     initFootball(scope);
     void initFans(scope);
-    return () => {F
+    return () => {
       scope.dispose();
       document.body.classList.remove("menu-open");
       document.documentElement.classList.remove("js-motion");
